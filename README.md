@@ -101,7 +101,7 @@ LASTFM_API_KEY=your_lastfm_key_here
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/qreel.git
+git clone https://github.com/EfraHdz-git/qreel.git
 cd qreel
 
 # 2. Install backend dependencies
@@ -121,33 +121,23 @@ npm start
 
 ---
 
-## 📦 Deployment
-
-This project is deployable to AWS (frontend via S3+CloudFront, backend via Elastic Beanstalk or EC2). Subdomain recommended: `qreel.efraprojects.com`.
-
----
-
 ## 🧠 Future Ideas
 
-- Real quantum integration with Qiskit
+- Possible integration with Qiskit?
 - User accounts + watchlists
 - AI-powered reviews and critiques
 - Multilingual subtitle matching
-
----
-
-## 📸 Screenshot (Optional)
-
-*Drop your UI screenshot here for visual appeal.*
+- Find moview by uploading a movie scene image
+- Find movie by song.
 
 ---
 
 ## 🧑‍💻 Author
 
-Built with love by [@EfraHdz-git](https://github.com/EfraHdz-git) – because smart movie search shouldn't be dumb.
+Built by [@EfraHdz-git](https://github.com/EfraHdz-git) 
 
 ---
 
 ## 📄 License
 
-MIT – use it, fork it, break it, just give credit.
+MIT – use it, fork it, break it, give credit.
